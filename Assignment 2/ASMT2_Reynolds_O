@@ -1,0 +1,28 @@
+Week 1
+Video 00
+-Web browsers read and display documents that contain html
+-Its all about tags
+-There is a markup element which would be the body, paragrapgh,etc. and there is a empty element which would be a break
+Video 01
+-There used to be versions of html
+-Html is more of like a wrapper than a section
+-<h1> is the main heading while <h2> is the subheading
+Video 02
+-Hitting enter doesn't create space 
+-An empty element doesn't need a closing tag
+-You can make internal comments that only you can see
+Week 2
+Video 03
+-Unordered and ordered lists use the same <li> element
+-Ordered list uses numbers while unordered list uses bullet points
+-Can remove the bullet points and numbers by using css
+Video 04
+-Tables are good for displaying large amounts of information
+-Quick way and easy way for your users to understand what you are displaying
+-<tr>= Table Row
+-<td>= Table Data
+-<th>= Column
+Video 05
+-Navigation is a key consideration into designing your website
+-2 ways to add links, first is by using a outside web page and the second is to link a section within your web page
+-<a> is connected to href and href tells the anchor element wherer the destination is 
