@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>All About Olivia</title>
+</head>
+<body>
+  <!--maybe make picture smaller and change font color-->
+<h1>About Me</h1>
+<img src="C:\Users\Livyb\Documents\html foundations\SUNSET.jpg" "width="1000" height="500">
+<p><font color="black";>This is a paragraph</p>
+<p><font color="#2ed9a5";>My name is Olivia. I am 13 years old and I go to New Augusta North. I cheer and run track for school but outside of school I just stay at home most of the time. I want to be a doctor when I get older. I like to draw during my free time or listen to music. I have a best friend and her name is Veronica. She has helped me through rough times and has always had my back. </p>
+<br>
+<p><font color="black";>This is a paragraph</p>
+<ul>
+  <li>cheer</li>
+  <li>volleyball</li>
+  <li>track</li>
+</ul>
+<br>
+<br>
+<ol>
+  <li>drawing</li>
+  <li>family</li>
+  <li>sleep</li>
+</ol>
+<br>
+<br>
+
+
+<table style="width:100%">
+<tr>
+<th>First Name</th>
+<th>Last Name</th>
+<th>Email</th>
+</tr>
+
+<tr>
+<td>Olivia</td>
+<td>gerald</td>
+<td>sam</td>
+</tr>
+
+<tr>
+<td>Reynolds</td>
+<td>taylor</td>
+<td>scott</td>
+</tr>
+
+<tr>
+<td>Livybivy06@gamil.com</td>
+<td>gerald@gamil.com</td>
+<td>sam@gmail.com</td>
+</tr>
+
+</table>
+<br>
+<text area rows = "">
+<textarea rows= ""> cols=""></text area>
+
+<form action=""methods="">
+
+<textarea rows="20" cols="50"> </textarea> </br>
+<br>
+<label for="first">First Name<input type="text" placeholder="i.e Olivia" id="first"name=""></input> </br> <label>
+<label for="last">Last Name<input type="text" placeholder="i.e Reynolds" id="last"name=""></input> </br> <label>
+<label for="Email">Email <input type="text" placeholder="i.e livybivy06@icloud.com" id="email"name=""></input> </br> <label>
+
+
+<br>
+What sport do you like? <br>
+<label for="football">Football <imput type "checkbox" checked="checked" id="football" value="Football">
+<label for="cheer">Cheer <imput type "checkbox" id="cheer" value="Cheer">
+<label for="basketball">Basketball <imput type "checkbox" id="basketball" value="Basketball">
+<label for="soccer">Soccer <imput type "checkbox" id="soccer" value="Soccer">
+
+</br>
+Are you enjoying the class so far?
+<label>Yes<input type=radio id="yes" name="yes-no" value="Yes" </br>
+<label>No<input type=radio id="no" name="yes-no" value="Yes"
+<input type="submit" value="submit">Submit
+
+</form>
+
+</body>
+</html>
